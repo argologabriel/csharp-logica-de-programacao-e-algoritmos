@@ -9,3 +9,11 @@ Repositório dedicado a preservar os desafios propostos pelo professor Nelio Alv
     		• Processamento de dados
     		• Saída de dados
     	• Funções matemáticas em C#
+
+    	2 - Estrutura Condicional
+
+    	• Expressões comparativas
+    	• Expressões lógicas && || !
+      • Estrutura condicional simples
+      • Estrutura condicional composta
+    	• Encadeamento de estruturas condicionais
