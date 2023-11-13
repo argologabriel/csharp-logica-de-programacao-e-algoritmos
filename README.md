@@ -14,6 +14,6 @@ Repositório dedicado a preservar os desafios propostos pelo professor Nelio Alv
 
     	• Expressões comparativas
     	• Expressões lógicas && || !
-        • Estrutura condicional simples
-        • Estrutura condicional composta
+    	• Estrutura condicional simples
+    	• Estrutura condicional composta
     	• Encadeamento de estruturas condicionais
