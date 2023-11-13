@@ -10,7 +10,7 @@ Repositório dedicado a preservar os desafios propostos pelo professor Nelio Alv
     		• Saída de dados
     	• Funções matemáticas em C#
 
-    	2 - Estrutura Condicional
+    2 - Estrutura Condicional
 
     	• Expressões comparativas
     	• Expressões lógicas && || !
