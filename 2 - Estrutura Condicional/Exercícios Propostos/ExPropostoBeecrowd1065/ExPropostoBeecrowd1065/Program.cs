@@ -16,6 +16,7 @@ namespace CursoNelioAlvesLPA {
             // Entrada de Dados
 
             Console.WriteLine("Digite 5 valores inteiros quaisquer: ");
+
             a = int.Parse(Console.ReadLine());
             b = int.Parse(Console.ReadLine());
             c = int.Parse(Console.ReadLine());
