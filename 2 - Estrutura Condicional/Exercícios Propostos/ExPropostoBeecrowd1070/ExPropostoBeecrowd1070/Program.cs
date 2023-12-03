@@ -31,6 +31,7 @@ namespace CursoNelioAlvesLPA {
             Console.WriteLine(x + 6);
             Console.WriteLine(x + 8);
             Console.WriteLine(x + 10);
+
         }
     }
 }
