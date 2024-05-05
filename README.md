@@ -1,4 +1,4 @@
-Repositório dedicado a preservar os desafios propostos pelo professor Nelio Alves no curso de C# - Lógica de Programação e Algoritmos.
+Repositório dedicado a preservar os desafios propostos pelo professor Nelio Alves no curso "C# - Lógica de Programação e Algoritmos".
 
     1 - Estrutura Sequencial
 
